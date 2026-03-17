@@ -5,17 +5,17 @@ Mã số sinh viên: 6451071033
 
 ## Kết quả các câu
 
-### Câu 1
+### Bài 1: Tap cơ bản 
 ![Kết quả Câu 1](btlt3/lib/Cau-1/kq-cau-1.png)
 
-### Câu 2
+### Bài 2: Double Tap đổi màu
 ![Kết quả Câu 2](btlt3/lib/Cau-2/kq-cau-2.png)
 
-### Câu 3
+### Long Press hiển thị thông báo 
 ![Kết quả Câu 3](btlt3/lib/Cau-3/kq-cau-3.png)
 
-### Câu 4
+### Đếm số lần Tap 
 ![Kết quả Câu 4](btlt3/lib/Cau-4/kq-cau-4.png)
 
-### Câu 5
+### Pointer Events cơ bản 
 ![Kết quả Câu 5](btlt3/lib/Cau-5/kq-cau-5.png)
