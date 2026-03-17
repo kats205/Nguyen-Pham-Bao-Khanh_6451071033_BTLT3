@@ -1,4 +1,4 @@
-# Bài Tập Lớn Tuần 3
+# Bài Tập Lý Thuyết 3
 
 Họ tên: Nguyễn Phạm Bảo Khanh
 Mã số sinh viên: 6451071033
